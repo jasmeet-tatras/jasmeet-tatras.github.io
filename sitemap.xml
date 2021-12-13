@@ -5,9 +5,24 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+      
 <url>
   <loc>https://ffstage.wpengine.com/erp-cloud-software/</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url>
+<url>
+  <loc>https://www.ibm.com/aspera/file-transfer-calculator/</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url>
+   <url>
+  <loc>https://explore.apptio.com/website/7-deadly-sins-of-it-budgeting-and-forecasting-ebook</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url>
+      <url>
+  <loc>https://explore.apptio.com/website/7-deadly-sins-of-it-with-itp</loc>
   <lastmod>2021-07-12T06:43:37+00:00</lastmod>
   <priority>0.5</priority>
  </url>
