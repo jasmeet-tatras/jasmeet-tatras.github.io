@@ -147,22 +147,7 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview</loc>
-    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview</loc>
-    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>redhat.com/en/blog/red-hat-virtualization-now-and-next</loc>
-    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>redhat.com/en/success-stories/vodafone-idea-limited</loc>
+    <loc>https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview</loc>
     <lastmod>2022-01-31T06:43:37+00:00</lastmod>
     <priority>0.5</priority>
 </url>
@@ -172,7 +157,22 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>tatacommunications.com/resource/products-solutions/security/threat-intelligence-advisory-report-29-sep-2020</loc>
+    <loc>https://www.redhat.com/en/blog/red-hat-virtualization-now-and-next</loc>
+    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.redhat.com/en/success-stories/vodafone-idea-limited</loc>
+    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview</loc>
+    <lastmod>2022-01-31T06:43:37+00:00</lastmod>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.tatacommunications.com/resource/products-solutions/security/threat-intelligence-advisory-report-29-sep-2020/</loc>
     <lastmod>2022-01-31T06:43:37+00:00</lastmod>
     <priority>0.5</priority>
 </url>
