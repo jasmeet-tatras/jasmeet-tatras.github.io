@@ -392,5 +392,9 @@
   <lastmod></lastmod>
   <priority>0.5</priority>
  </url>
-
+<url>
+<loc>https://www.fireeye.com/content/dam/fireeye-www/company/pdfs/fireeye-wins-global-advanced-malware-sandbox-market-leadership-award.pdf</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
  </urlset>
