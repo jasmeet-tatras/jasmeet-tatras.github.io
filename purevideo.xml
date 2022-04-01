@@ -51,4 +51,9 @@
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
+      <url>
+<loc>https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6151947653001</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
  </urlset>
