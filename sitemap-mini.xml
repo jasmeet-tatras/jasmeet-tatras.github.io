@@ -6,11 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
       
-<url>
-  <loc>https://ffstage.wpengine.com/erp-cloud-software/</loc>
-  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
-  <priority>0.5</priority>
- </url>
+
       <url>
   <loc>https://pathfactory-tracking-test.com/resources/</loc>
   <lastmod>2021-07-12T06:43:37+00:00</lastmod>
@@ -53,11 +49,6 @@
  </url>
 <url>
   <loc>https://www.blackboard.com/resources/educations-ongoing-digital-transformation</loc>
-  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
-  <priority>0.5</priority>
- </url>
- <url>
-  <loc>https://www.blackboard.com/resources/modern-slavery-act-statement</loc>
   <lastmod>2021-07-12T06:43:37+00:00</lastmod>
   <priority>0.5</priority>
  </url>
