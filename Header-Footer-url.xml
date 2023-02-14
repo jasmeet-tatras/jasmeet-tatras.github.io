@@ -136,7 +136,7 @@
 <loc>https://pathfactory-tracking-test.com/blog/test-bb/</loc>
 <lastmod>2021-07-12T06:43:37+00:00</lastmod>
 <priority>0.5</priority>
-      
+</url>      
 
 <url>
 <loc>https://pathfactory-tracking-test.com/blog/test-bb3/</loc>
@@ -153,4 +153,5 @@
 <loc>https://pathfactory-tracking-test.com/blog/a-b2b-marketers-guide-to-creating-relevant-shareable-content/</loc>
 <lastmod>2021-07-12T06:43:37+00:00</lastmod>
 <priority>0.5</priority>
-</url></urlset>
+</url>
+</urlset>
