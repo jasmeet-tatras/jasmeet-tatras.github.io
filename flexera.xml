@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+      
+      
+<url>
+  <loc>https://info.flexera.com/CM-REPORT-Forrester-Wave-Cloud-Cost-Management-Optimization</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url>   
+     
+      <url>
+  <loc>https://info.flexera.com/FLX1-REPORT-Forrester-Total-Economic-Impact</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+     </url> 
+     
+      <url>
+  <loc>https://info.flexera.com/ITAM-REPORT-Gartner-Market-Guide-SAM-Tools</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+     </url> 
+      
+     
+      <url>
+  <loc>https://info.flexera.com/FLX1-WBNR-IT-Budget-Planning</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+     </url> 
+     
+      <url>
+  <loc>https://info.flexera.com/CM-WBNR-Cloud-FinOps-Cost-Allocation</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+     </url>
+     
+ </urlset>
