@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+      
+      
+<url>
+  <loc>http://pathfactory-staging-wp.com/automation-analytics/</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url> 
+<url>
+  <loc>https://app.qa-pathfactory.com/qa/clients/7/content/2016-10-27/172040/Screen%20Shot%202016-10-27%20at%2012.51.27%20PM.png</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url> 
+
+<url>
+  <loc>https://app.qa-pathfactory.com/qa/clients/7/content/2016-08-08/172302/Cut%20Through%20B2B%20Information%20Overload%20With%20Effective%20Storytelling.jpg</loc>
+  <lastmod>2021-07-12T06:43:37+00:00</lastmod>
+  <priority>0.5</priority>
+ </url> 
+
+ </urlset>
