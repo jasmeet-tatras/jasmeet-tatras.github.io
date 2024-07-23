@@ -13,7 +13,7 @@
   <priority>0.5</priority>
  </url>
       <url>
-  <loc>https://player.vimeo.com/video/306869058?title=0&byline=0&portrait=0</loc>
+  <loc>https://player.vimeo.com/video/288590423</loc>
   <lastmod>2021-07-12T06:43:37+00:00</lastmod>
   <priority>0.5</priority>
  </url>
@@ -39,7 +39,7 @@
 </url>
 
     <url>
-<loc>https://player.vimeo.com/video/247030990?title=0&byline=0&portrait=0</loc>
+<loc>https://player.vimeo.com/video/286367084</loc>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -50,11 +50,7 @@
 <priority>0.5</priority>
 </url>
 
-    <url>
-<loc>https://www.youtube.com/embed/Cr4gGm_kkQ4?rel=0&showinfo=0</loc>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
+
 
     <url>
 <loc>https://fast.wistia.net/embed/iframe/usrgp3fhxb</loc>
